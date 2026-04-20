@@ -39,4 +39,4 @@ Minimal stack, maximum clarity.
 This repository is licensed under the CC-BY-4.0 License. Refer to [LICENSE](docs/LICENSE.md) to learn more.
 
 
-Please feel free to suggest an app in [Issues](https://github.com/zakdev12312/config-journal/issues)
+Please feel free to suggest an app in [Issues](https://github.com/zakagain/config-journal/issues)

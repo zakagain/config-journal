@@ -5,7 +5,7 @@ Prioritised improvements from a project review (tooling, consistency, and mainte
 ## High priority
 
 - **Fix README “About the Vault” link** — In `README.md` (around line 32), the link is `[About the Vault →](docs/📦%20About%20the%20Vault.md)`. That path encodes a filename with a leading emoji and spaces (`📦 About the Vault.md`), but **no file with that name exists** in `docs/`. The published page is sourced from `docs/about-the-vault.md` (kebab-case, no emoji), which VitePress serves as `/about-the-vault/`. Anyone clicking the README link on GitHub gets a **missing file** in the repo browser. **Fix:** Point the link at the real file, e.g. `docs/about-the-vault.md` (relative from repo root), so the raw README and GitHub’s file view resolve correctly and stay aligned with the site’s canonical slug. ✅
-- **Fix Issues URL typo** — In `README.md` (around line 42), the Issues link uses `https://github.com/zakdev12312/config-jornal/issues` — `**config-jornal` is misspelt** (missing the second **u** in “journal”). GitHub will return **404** for that URL because the repository is `config-journal`, not `config-jornal`. **Fix:** Replace the segment with `config-journal` so the link opens the real repo’s Issues tab. Double-check in the browser after editing, since this is easy to regress when copying URLs. ✅
+- **Fix Issues URL typo** — In `README.md` (around line 42), the Issues link uses `https://github.com/zakagain/config-journal/issues` — `**config-jornal` is misspelt** (missing the second **u** in “journal”). GitHub will return **404** for that URL because the repository is `config-journal`, not `config-jornal`. **Fix:** Replace the segment with `config-journal` so the link opens the real repo’s Issues tab. Double-check in the browser after editing, since this is easy to regress when copying URLs. ✅
 - **Resolve `About Me.md` vs `about-me.md`** — Two different pages exist. The sidebar uses `/about-me` (the kebab-case file). `About Me.md` has no frontmatter and is not listed in the sidebar; it may be dead weight or should be merged/redirected to avoid confusion and duplicate content. ✅
 
 ## Medium priority
@@ -21,7 +21,7 @@ Prioritised improvements from a project review (tooling, consistency, and mainte
 ## Low priority
 
 - **Footer copy** — Theme footer has a stray space: `CC-BY-4.0 license .` — tidy punctuation in `.vitepress/config.mts`.
-- `**docs/LICENSE.md` copyright line** — Still says `© zakdev12312 2025` while the site footer uses 2026; refresh when you do annual housekeeping.
+- `**docs/LICENSE.md` copyright line** — Still says `© zakagain 2025` while the site footer uses 2026; refresh when you do annual housekeeping.
 - **Filename conventions** — `AGENTS.md` prefers lowercase kebab-case; some movie files use PascalCase (`The-Adam-Project.md`, etc.). Harmless for URLs, but renaming would match stated conventions (only if you accept broken external links risk).
 - **Node/tooling pins** — Optional: add `engines` in `package.json` or an `.nvmrc` matching CI so contributors know which Node to use.
 - **Dependencies** — Periodically bump `vitepress` (and transitive deps) after checking release notes; no urgent issue noted on current `^1.6.4`.

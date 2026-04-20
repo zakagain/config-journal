@@ -12,7 +12,7 @@ export default defineConfig({
   ignoreDeadLinks: false,
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://zakdev12312.github.io/config-journal/'
+    hostname: 'https://zakagain.github.io/config-journal/'
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -117,17 +117,17 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zakdev12312/' }
+      { icon: 'github', link: 'https://github.com/zakagain/' }
     ],
 
     editLink: {
-      pattern: 'https://github.com/zakdev12312/config-journal/edit/main/docs/:path',
+      pattern: 'https://github.com/zakagain/config-journal/edit/main/docs/:path',
       text: 'Edit this page'
     },
 
     footer: {
       message: 'Released under the CC-BY-4.0 license .',
-      copyright: 'Copyright 2026 zakdev12312'
+      copyright: 'Copyright 2026 zakagain'
     }
   }
 })

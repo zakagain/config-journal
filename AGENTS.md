@@ -7,7 +7,7 @@ The `config-journal` project is a VitePress documentation site. It acts as a per
 
 - **Source Location**: `docs/`
 - **Standard Language**: British English (opinionated tone).
-- **Owner**: zakdev12312
+- **Owner**: zakagain
 
 ## Command Reference
 Use these commands to manage the site and generate content.
@@ -83,6 +83,6 @@ editLink: true
 - `package.json`: Scripts and dependencies.
 
 ## Deployment & Reference
-- **Deployment**: https://zakdev12312.github.io/config-journal/
+- **Deployment**: https://zakagain.github.io/config-journal/
 - **Source Config**: `.vitepress/config.mts`
-- **GitHub Edit URL**: `https://github.com/zakdev12312/config-journal/edit/main/docs/`
+- **GitHub Edit URL**: `https://github.com/zakagain/config-journal/edit/main/docs/`
