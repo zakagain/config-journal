@@ -28,4 +28,4 @@ Windows may block it, however it is safe. (More options > Run anyway)
 Select your browser of choice, and let Talon handle debloating for you.
 
 ## Finished
-Hey, you successfully debloated your Windows installation! Well, that's it for this guide, so I'll see you nect time.
+Hey, you successfully debloated your Windows installation! Well, that's it for this guide, so I'll see you next time.
