@@ -12,10 +12,11 @@ Please read [this](/windowsdisclaimer) before continuing.
 ---
 
 ## Prerequisites
+- Create a restore point. (Google it)
 - Back-up all your important data somewhere
-- Secure boot disabled
+- Secure boot disabled in your BIOS/UEFI.
 - A USB flash drive that's at least **8gb**
-- ***Maybe*** your PC's drivers on a folder of the flash drive
+- ***Maybe*** your PC's drivers on a folder of the flash drive. (I forgot my wifi drivers and I had to plug in an ethernet cable, thankfully, I have a couple hundred).
 
 ## Installation
 Go through the install as you would. Deleting partitions etc. 
@@ -23,7 +24,7 @@ Go through the install as you would. Deleting partitions etc.
 ## Post install
 Head to [Talon's website](https://www.debloat.win)
 Download the full version of Talon 
- Extract and run it.
+Extract and run it.
 Windows may block it, however it is safe. (More options > Run anyway)
 Select your browser of choice, and let Talon handle debloating for you.
 
