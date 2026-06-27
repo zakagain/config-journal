@@ -3,9 +3,7 @@ title: My Browser Choice
 editLink: true
 ---
 
-# web
-
-## 🌐 My Browser Choice
+# 🌐 My Browser Choice
 
 I currently use Brave
 

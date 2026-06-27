@@ -3,9 +3,7 @@ title: My Note-Taking Stack
 editLink: true
 ---
 
-# notespace
-
-## 🗒️ My Note-Taking Stack
+# 🗒️ My Note-Taking Stack
 
 I use [Memos](https://www.usememos.com) on my Raspberry Pi for capturing notes—open-source, self-hosted, and built for peace of mind.
 

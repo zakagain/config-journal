@@ -3,8 +3,6 @@ title: Kasm Workspaces CE Installation
 editLink: true
 ---
 
-# kasminstall
-
 # Kasm Workspaces 1.18.1 Installation
 
 ## Prerequisites

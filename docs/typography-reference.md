@@ -1,9 +1,9 @@
 ---
-title: 🎨 Typography Reference
+title: 🎨 Typography 
 editLink: true
 ---
 
-# 🎨 Typography Reference
+# 🎨 Typography 
 
 A curated collection of fonts I’ve explored for my digital workspace, Docsify themes, and personal branding. Each section includes a live-rendered sample using inline CSS so you can compare vibes directly in the browser.
 

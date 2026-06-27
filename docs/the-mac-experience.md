@@ -11,13 +11,13 @@ editLink: true
 ---
 
 ### 📓 The Gist
-In this note, I'm talking about Mac, and MacOS. [What do you think?](https://forms.gle/svq96WzkHu4gFYEW7)
+In this note, I'm talking about Mac, and macOS. [What do you think?](https://forms.gle/svq96WzkHu4gFYEW7)
 
 
 
 ### 🧠 My Perspective
 
-I think Mac is the best computer you can buy, so long as gaming isn't your *main* focus. Apple Silicon supercharges these 15 and 16" laptops, and the new M5. Just wow. It almost beats the Intel Core Ultra 9 285K, a full desktop-grade processor. The new chip has 18 CPU cores – 6 super cores, and 12 performance – and 40 GPU cores. This chip excels in 4K video editing, professional applications (such as 3D work, and local AI). It is also incredibly power efficient, with M5 Max getting up to 22 hours of video streaming. And with Thunderbolt 5, up to 120GB/s, applicable to displays, SSDs and much more.
+I think Mac is the best computer you can buy, so long as gaming isn't your *main* focus. Apple Silicon supercharges these 15 and 16" laptops, and the new M5? Just wow. It almost beats the Intel Core Ultra 9 285K, a full desktop-grade processor. The new chip has 18 CPU cores – 6 super cores, and 12 performance – and 40 GPU cores. This chip excels in 4K video editing, professional applications (such as 3D work, and local AI). It is also incredibly power efficient, with M5 Max getting up to 22 hours of video streaming. And with Thunderbolt 5, up to 120GB/s, applicable to displays, SSDs and much more.
 
 
 
