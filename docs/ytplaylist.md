@@ -3,7 +3,7 @@ title: My YouTube Music Playlist
 editLink: true
 ---
 
-# ytplaylist
+# YouTube Music Playlist
 
 My YouTube Music playlist  
 i made this playlist, first, purely for fun. it has some of my favourite music on there, and some i just found, and said "..yea, that sounds good".  
