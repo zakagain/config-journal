@@ -33,7 +33,7 @@ Minimal stack, maximum clarity.
 
 ---
 
-[Content & Compliance Notice](DISCLAIMER.md)
+[Content & Compliance Notice](docs/DISCLAIMER.md)
 
 
 This repository is licensed under the CC-BY-4.0 License. Refer to [LICENSE](docs/LICENSE.md) to learn more.
