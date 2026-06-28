@@ -4,7 +4,6 @@ Prioritised improvements from a project review (tooling, consistency, and mainte
 
 ## Medium priority
 
-- `**games.md` vs `game-reviews.md`** — Both look like game hub pages; `game-reviews.md` appears unused in navigation and grep. Merge, delete, or add a sidebar/link entry so there is one obvious entry point.
 
 ## Low priority
 
