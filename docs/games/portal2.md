@@ -3,9 +3,9 @@ title: Portal 2
 editLink: true
 ---
 
-# portal2
+# 🧪 Portal 2 
 
-## 🧪 Portal 2 (2011, Valve Corporation)
+## (2011, Valve Corporation)
 
 > “Some sequels expand. This one deepens.”
 

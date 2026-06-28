@@ -3,9 +3,9 @@ title: Squirrel with a Gun
 editLink: true
 ---
 
-# squirrel-with-a-gun
+# 🐿️ Squirrel with a Gun
 
-## 🐿️ Squirrel with a Gun (2024, Dee Dee Creations / Maximum Entertainment)
+## (2024, Dee Dee Creations / Maximum Entertainment)
 
 > “A squirrel. A firearm. A neighborhood full of chaos. That’s the pitch — and it delivers.”
 

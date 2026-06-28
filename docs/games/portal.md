@@ -3,9 +3,9 @@ title: Portal
 editLink: true
 ---
 
-# portal
+# 🧪 Portal
 
-## 🧪 Portal (2007, Valve Corporation)
+## (2007, Valve Corporation)
 
 > “Some games challenge your reflexes. This one bends your perception.”
 

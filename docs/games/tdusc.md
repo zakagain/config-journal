@@ -3,9 +3,7 @@ title: Test Drive Unlimited Solar Crown
 editLink: true
 ---
 
-# tdusc
-
-## 🏎️ Test Drive Unlimited Solar Crown — First Drive Report
+# 🏎️ Test Drive Unlimited Solar Crown 
 
 > "This isn't just racing. It's lifestyle simulation wearing driving gloves."
 

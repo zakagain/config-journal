@@ -3,9 +3,10 @@ title: Minecraft
 editLink: true
 ---
 
-# minecraft
 
-## ⛏️ Minecraft (2011, Mojang Studios / Microsoft)
+# ⛏️ Minecraft 
+
+## (2011, Mojang Studios / Microsoft)
 
 > “The game that taught me how to build, explore, and imagine — one block at a time.”
 

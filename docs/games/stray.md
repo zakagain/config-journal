@@ -3,9 +3,9 @@ title: Stray
 editLink: true
 ---
 
-# stray
+# 🐈 Stray 
 
-## 🐈 Stray (2022, BlueTwelve Studio / Annapurna Interactive)
+## (2022, BlueTwelve Studio / Annapurna Interactive)
 
 > “You’re not saving the world. You’re just trying to find your way home — and somehow, that’s enough.”
 
