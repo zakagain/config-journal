@@ -7,6 +7,10 @@ editLink: true
 
 Welcome to my app reviews vault. Here you'll find my thoughts on the tools and software I use — the good, the bad, and the abandoned.
 
+## Browse by Category
+
+Check out the [App Index](appindex.md) for a curated list organized alphabetically.
+
 ## Suggest something
 
 Have an app recommendation? [Let me know →](suggest-something.md)
