@@ -28,7 +28,7 @@ editLink: true
 *   **Director:** [Name]
 *   **Genre:** [Genre]
 *   **My Rating:** [ /10]
-*   **Vibe Check:** [One sentence on the general feeling]
+*   **First Impression:** [Your immediate gut reaction in a few words]
 
 
 
@@ -42,18 +42,13 @@ editLink: true
 
 
 
-### 🧠 The Deep Dive
-[This is where you analyze the logic or the existential themes.]
-
-
-
 ### 🏁 Final Verdict
 [Is it a masterpiece or a 404 error?]
 
 
 
 ### 🔚 The End
-I hope you enjoyed it, make sure to check out my other reviews, and see you on the next one!
+I hope you enjoyed this review, make sure to check out my others, and see you on the next one!
 `;
 
 if (!fs.existsSync(filePath)) {
