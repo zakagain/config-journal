@@ -3,7 +3,7 @@ title: Game Reviews A–Z Index
 editLink: true
 ---
 
-# gameindex
+# Game Index
 
 ## 🔡 A–Z Index
 

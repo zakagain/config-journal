@@ -3,7 +3,7 @@ title: Movie Reviews A–Z Index
 editLink: true
 ---
 
-# movieindex
+# Movie Index
 
 ## 🔡 A–Z Index
 

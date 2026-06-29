@@ -24,6 +24,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'App Reviews', link: '/apps' },
       { text: 'Game Reviews', link: '/games' },
       { text: 'Movie Reviews', link: '/movies' }
     ],
@@ -63,6 +64,21 @@ export default defineConfig({
           { text: 'Notespace', link: '/notespace' },
           { text: 'Kasm Install', link: '/kasminstall' },
           { text: 'YouTube Playlist', link: '/ytplaylist' }
+        ]
+      },
+      {
+        text: 'App Reviews',
+        items: [
+          { text: 'App Reviews', link: '/apps' },
+          { text: 'App Index', link: '/appindex' },
+          { text: 'Suggest something', link: '/suggest-something' }
+        ]
+      },
+      {
+        text: 'Apps',
+        collapsed: true,
+        items: [
+          { text: 'Why I switched to Dia', link: '/apps/why-i-switched-to-dia' }
         ]
       },
       {

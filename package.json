@@ -12,7 +12,8 @@
     "docs:preview": "vitepress preview",
     "review": "node new-review.mjs",
     "note": "node new-note.mjs",
-    "game": "node new-game.mjs"
+    "game": "node new-game.mjs",
+    "app": "node new-app.mjs"
   },
   "keywords": [],
   "author": "",

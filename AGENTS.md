@@ -2,6 +2,10 @@
 
 VitePress docs site at `docs/`. British English, opinionated tone. Owner: zakagain.
 
+## Prerequisites
+
+- **Node**: `>=24` (see `.nvmrc`)
+
 ## Commands
 
 | Command | Action |
@@ -12,7 +16,8 @@ VitePress docs site at `docs/`. British English, opinionated tone. Owner: zakaga
 | `npm run review "Title"` | Create movie review in `docs/movies/` |
 | `npm run note "Title"` | Create general note in `docs/` |
 | `npm run game "Title"` | Create game review in `docs/games/` |
-| `npm test` | Intentional exit 1 — do not run |
+| `npm run app "Title"` | Create app/tool review in `docs/apps/` |
+| `npm test` | Intentional `exit 1` — do not run |
 
 ## Git
 
@@ -22,10 +27,10 @@ VitePress docs site at `docs/`. British English, opinionated tone. Owner: zakaga
 
 ## Content rules
 
-- **Frontmatter**: every `docs/` file needs `title` and `editLink: true` (global edit link is already configured; per-page `editLink: true` is conventional.)
-- **Filenames**: `lowercase-kebab-case.md`. Exceptions exist for existing movie files (PascalCase) — keep them, don't rename.
-- **Sidebar**: update `.vitepress/config.mts` when adding or moving pages.
-- **Links**: relative internal links. `ignoreDeadLinks: false` — build will fail on broken links.
+- **Frontmatter**: every `docs/` file needs `title` and `editLink: true`. The scripted templates (`npm run review|note|game`) set these automatically. Global edit link is configured in `.vitepress/config.mts`.
+- **Filenames**: `lowercase-kebab-case.md`. Exception: existing movie files use PascalCase (e.g. `The-Adam-Project.md`) — keep them, don't rename.
+- **Sidebar**: update `.vitepress/config.mts` when adding or moving pages. Games need entries in both the "Game Reviews" and the collapsed "Games" sidebar sections.
+- **Links**: relative internal links. `ignoreDeadLinks: false` — build fails on broken links.
 - **Headings**: ATX (`##`). One `h1` per file.
 
 ## Verify
