@@ -28,7 +28,7 @@ As a 'tech-person' I thought the CGI was pretty good; it felt as IF (haha, get i
 ---
 
 ### 🎧 The Atmosphere & Score
-I thought that this music was great. It had the perfect amount of mystery with nice tune. Hanz Zimmer never disappoints.
+I thought that this music was great. It had the perfect amount of mystery with nice tune. Hans Zimmer never disappoints.
 
 ---
 

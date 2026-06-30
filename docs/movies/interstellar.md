@@ -23,7 +23,7 @@ A desperate last attempt to save humanity from extinction. Cooper is recruited t
 ---
 
 ### 🛠️ The Technical Flex
-The rendering of Gargantua. It is still the 'Gold Standard' for a scientifically accurate black hole. Christopher Nolan partnered with nobel-prize winning scientist Kip Thorne to calculate the theroetical equations for this black hole. The process of rendering this generated over 800TB of data with some singular frames taking hundereds of hours to render on extremely powerful render farms.
+The rendering of Gargantua. It is still the 'Gold Standard' for a scientifically accurate black hole. Christopher Nolan partnered with Nobel Prize-winning scientist Kip Thorne to calculate the theoretical equations for this black hole. The process of rendering this generated over 800TB of data with some singular frames taking hundreds of hours to render on extremely powerful render farms.
 
 ---
 
@@ -38,7 +38,7 @@ The soundtrack is incredible. It's extremely emotional and adds a lot to the mov
 ---
 
 ### 💬 The "Love" Debate
-"Love is the only thing that trancends time and space"
+"Love is the only thing that transcends time and space"
 What do you think? [Let me know](https://forms.gle/6EpvgHiLW9XXqNdQA)
 
 ---

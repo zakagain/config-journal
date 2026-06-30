@@ -6,7 +6,7 @@ editLink: true
 
 # The Mac Experience
 
-> "It just works. Until it doesn't, then you need trained professional, and $1,000"
+> "It just works. Until it doesn't, then you need a trained professional, and $1,000"
 
 ---
 

@@ -28,7 +28,7 @@ VitePress docs site at `docs/`. British English, opinionated tone. Owner: zakaga
 ## Content rules
 
 - **Frontmatter**: every `docs/` file needs `title` and `editLink: true`. The scripted templates (`npm run review|note|game`) set these automatically. Global edit link is configured in `.vitepress/config.mts`.
-- **Filenames**: `lowercase-kebab-case.md`. Exception: existing movie files use PascalCase (e.g. `The-Adam-Project.md`) — keep them, don't rename.
+- **Filenames**: `lowercase-kebab-case.md`.
 - **Sidebar**: update `.vitepress/config.mts` when adding or moving pages. Games need entries in both the "Game Reviews" and the collapsed "Games" sidebar sections.
 - **Links**: relative internal links. `ignoreDeadLinks: false` — build fails on broken links.
 - **Headings**: ATX (`##`). One `h1` per file.

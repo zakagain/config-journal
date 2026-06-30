@@ -1,4 +1,6 @@
 ---
+title: Home
+editLink: true
 layout: home
 
 hero:

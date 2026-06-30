@@ -30,8 +30,8 @@ Very funny, and hooking movie. What do you think? [I'd love to know](https://for
 
 
 ### 🏁 The Final Verdict
-A very well executed sci-fi movie. 100% would reccommend. [Let me know what you think](https://forms.gle/6bvL1YC1VntVBEEcA)
+A very well executed sci-fi movie. 100% would recommend. [Let me know what you think](https://forms.gle/6bvL1YC1VntVBEEcA)
 
 
 ### 🔚 The End
-Hey, you made to the end. That's all I got for this one, see you next time.
+Hey, you made it to the end. That's all I got for this one, see you next time.

@@ -7,8 +7,8 @@ editLink: true
 
 ## 🔡 A–Z Index
 
-- [The Adam Project](movies/The-Adam-Project.md)
-- [Interstellar](movies/Interstellar.md)
-- [IF](movies/IF.md)
+- [The Adam Project](movies/the-adam-project.md)
+- [Interstellar](movies/interstellar.md)
+- [IF](movies/if.md)
 - [Michael](movies/michael.md)
 

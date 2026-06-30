@@ -14,4 +14,4 @@ life is unpredictable in every way. embrace it.
 https://music.youtube.com/playlist?list=PL32fSTUD7vDUv0ppv7bwRl-jkx46oBcfz
 
 – a clean link  
-also availible on spotify, https://open.spotify.com/playlist/0ID2mYVnYH5r2PbpUQ7sJu?si=52776efc0bad473d
+also available on spotify, https://open.spotify.com/playlist/0ID2mYVnYH5r2PbpUQ7sJu?si=52776efc0bad473d

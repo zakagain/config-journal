@@ -47,14 +47,14 @@ editLink: true
     `sudo bash kasm_release/install.sh`
 6.  Take note of the default credentials after the installer finishes
 7.  Head out to port 443 inside the web browser  
-    `https://your_device_ip:443`#
+    `https://your_device_ip:443`
 8.  Log in with the admin credentials  
     Email:`admin@kasm.local`  
     Password`password`
 9.  Install some workspaces!  
     Head to Workspaces > Registries  
     Find one you like, and hit install
-10. Swich to the Workspaces view  
+10. Switch to the Workspaces view  
     At the top of the screen, next to ‘Admin’, press on ‘Workspaces’  
     If your workspace installed, press it and hit ‘Launch Session’ and watch the magic happen!
 

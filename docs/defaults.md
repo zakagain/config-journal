@@ -44,9 +44,9 @@ A snapshot of my preferred tools, apps, and settings. Helps me stay consistent a
 
 ## 🎨 Appearance
 
-- **Font:** Ginto Nord Regular![Ginto Regualar](https://img.shields.io/badge/Ginto-Nord-darkgreen)
+- **Font:** Ginto Nord Regular![Ginto Regular](https://img.shields.io/badge/Ginto-Nord-darkgreen)
 - **Theme:** Always dark
-- **Wallpapers** Wallpaper Engine ($4.99 but all worth it)
+- **Wallpapers:** Wallpaper Engine ($4.99 but all worth it)
 
 ---
 

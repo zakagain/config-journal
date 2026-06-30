@@ -133,9 +133,9 @@ export default defineConfig({
         text: 'Movies',
         collapsed: true,
         items: [
-          { text: 'The Adam Project', link: '/movies/The-Adam-Project' },
-          { text: 'Interstellar', link: '/movies/Interstellar' },
-          { text: 'IF', link: '/movies/IF' },
+          { text: 'The Adam Project', link: '/movies/the-adam-project' },
+          { text: 'Interstellar', link: '/movies/interstellar' },
+          { text: 'IF', link: '/movies/if' },
           { text: 'Michael', link: '/movies/michael' }
         ]
       }
@@ -151,7 +151,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Released under the CC-BY-4.0 license .',
+      message: 'Released under the CC-BY-4.0 license.',
       copyright: 'Copyright 2026 zakagain'
     }
   }

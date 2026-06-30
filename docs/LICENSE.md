@@ -1,8 +1,13 @@
+---
+title: License
+editLink: true
+---
+
 # LICENSE
 
 Attribution 4.0 International
 
-# © zakagain 2025
+# © zakagain 2025-2026
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and  
 does not provide legal services or legal advice. Distribution of  
