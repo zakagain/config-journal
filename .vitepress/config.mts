@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import fs from 'node:fs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -11,6 +12,13 @@ export default defineConfig({
   base: '/config-journal/',
   ignoreDeadLinks: false,
   lastUpdated: true,
+  transformPageData(pageData) {
+    const filePath = pageData.filePath
+    if (fs.existsSync(filePath)) {
+      const stats = fs.statSync(filePath)
+      pageData.lastUpdated = stats.mtimeMs
+    }
+  },
   sitemap: {
     hostname: 'https://zakagain.github.io/config-journal/'
   },
