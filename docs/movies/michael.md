@@ -6,7 +6,7 @@ editLink: true
 
 # Michael (2026) | Review
 
-> "[Michael, to himself] You're confident. You're strong. You're beautiful. You're the greatest of all time."
+> "You're confident. You're strong. You're beautiful. You're the greatest of all time."
 
 
 
