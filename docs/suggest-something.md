@@ -5,9 +5,9 @@ editLink: true
 
 # 🗳️ Suggest something
 
-Got something I should play or watch?
+Got something I should read, play or watch?
 
-👉 [Submit a game via this form](https://forms.gle/9pLcRvrbBTJvwZ3a9)
+👉 [Submit something via this form](https://forms.gle/9pLcRvrbBTJvwZ3a9)
 
 I'll check them out and add any standouts to the vault.  
 Thanks for helping expand the vault 🎮🗂️

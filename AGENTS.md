@@ -17,6 +17,7 @@ VitePress docs site at `docs/`. British English, opinionated tone. Owner: zakaga
 | `npm run note "Title"` | Create general note in `docs/` |
 | `npm run game "Title"` | Create game review in `docs/games/` |
 | `npm run app "Title"` | Create app/tool review in `docs/apps/` |
+| `npm run book "Title"` | Create book review in `docs/books/` |
 | `npm test` | Intentional `exit 1` — do not run |
 
 ## Git
@@ -27,9 +28,9 @@ VitePress docs site at `docs/`. British English, opinionated tone. Owner: zakaga
 
 ## Content rules
 
-- **Frontmatter**: every `docs/` file needs `title` and `editLink: true`. The scripted templates (`npm run review|note|game`) set these automatically. Global edit link is configured in `.vitepress/config.mts`.
+- **Frontmatter**: every `docs/` file needs `title` and `editLink: true`. The scripted templates (`npm run review|note|game|app|book`) set these automatically. Global edit link is configured in `.vitepress/config.mts`.
 - **Filenames**: `lowercase-kebab-case.md`.
-- **Sidebar**: update `.vitepress/config.mts` when adding or moving pages. Games need entries in both the "Game Reviews" and the collapsed "Games" sidebar sections.
+- **Sidebar**: update `.vitepress/config.mts` when adding or moving pages. Each review type (App, Game, Movie, Book) needs entries in both the top-level and the collapsed sidebar sections.
 - **Links**: relative internal links. `ignoreDeadLinks: false` — build fails on broken links.
 - **Headings**: ATX (`##`). One `h1` per file.
 

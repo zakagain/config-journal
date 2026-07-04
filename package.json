@@ -13,7 +13,8 @@
     "review": "node new-review.mjs",
     "note": "node new-note.mjs",
     "game": "node new-game.mjs",
-    "app": "node new-app.mjs"
+    "app": "node new-app.mjs",
+    "book": "node new-book.mjs"
   },
   "keywords": [],
   "author": "",

@@ -34,7 +34,8 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'App Reviews', link: '/apps' },
       { text: 'Game Reviews', link: '/games' },
-      { text: 'Movie Reviews', link: '/movies' }
+      { text: 'Movie Reviews', link: '/movies' },
+      { text: 'Book Reviews', link: '/books' }
     ],
 
     sidebar: [
@@ -137,6 +138,21 @@ export default defineConfig({
           { text: 'Interstellar', link: '/movies/interstellar' },
           { text: 'IF', link: '/movies/if' },
           { text: 'Michael', link: '/movies/michael' }
+        ]
+      },
+      {
+        text: 'Book Reviews',
+        items: [
+          { text: 'Book Reviews', link: '/books' },
+          { text: 'Book Index', link: '/bookindex' },
+          { text: 'Suggest something', link: '/suggest-something' }
+        ]
+      },
+      {
+        text: 'Books',
+        collapsed: true,
+        items: [
+          { text: 'Just Friends', link: '/books/just-friends' }
         ]
       }
     ],
