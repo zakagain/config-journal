@@ -137,7 +137,8 @@ export default defineConfig({
           { text: 'The Adam Project', link: '/movies/the-adam-project' },
           { text: 'Interstellar', link: '/movies/interstellar' },
           { text: 'IF', link: '/movies/if' },
-          { text: 'Michael', link: '/movies/michael' }
+          { text: 'Michael', link: '/movies/michael' },
+          { text: 'Project Hail Mary', link: '/movies/project-hail-mary' }
         ]
       },
       {

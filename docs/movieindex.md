@@ -11,4 +11,5 @@ editLink: true
 - [Interstellar](movies/interstellar.md)
 - [IF](movies/if.md)
 - [Michael](movies/michael.md)
+- [Project Hail Mary](movies/project-hail-mary.md)
 

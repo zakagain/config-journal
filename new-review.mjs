@@ -28,8 +28,6 @@ editLink: true
 *   **Director:** [Name]
 *   **Genre:** [Genre]
 *   **My Rating:** [ /10]
-*   **First Impression:** [Your immediate gut reaction in a few words]
-
 
 
 ### 📖 The Premise
@@ -37,8 +35,8 @@ editLink: true
 
 
 
-### ⚙️ The Technical Flex
-[Comment on the cinematography, sound, or CGI. Keep it tech-capable.]
+### ⚙️ My Opinion
+[What did you think overall? No spoilers.]
 
 
 
