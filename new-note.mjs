@@ -8,7 +8,7 @@ if (!title) {
   process.exit(1);
 }
 
-const fileName = title.toLowerCase().trim().replace(/\s+/g, '-') + '.md';
+const fileName = title.toLowerCase().trim().replace(/\s+/g, '-').replace(/[\/\\:*?"<>|]/g, '') + '.md';
 const filePath = path.join('docs', fileName); 
 
 const template = `---
@@ -38,6 +38,7 @@ Hope you enjoyed it! See you on the next one!
 `;
 
 if (!fs.existsSync(filePath)) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, template);
   console.log(`🚀 Created new note: ${filePath}`);
 } else {

@@ -9,7 +9,7 @@ if (!title) {
 }
 
 // Convert "Titanfall 2" to "titanfall-2.md"
-const fileName = title.toLowerCase().trim().replace(/\s+/g, '-') + '.md';
+const fileName = title.toLowerCase().trim().replace(/\s+/g, '-').replace(/[\/\\:*?"<>|]/g, '') + '.md';
 const filePath = path.join('docs', 'games', fileName);
 
 const template = `---
@@ -57,6 +57,7 @@ I hope you enjoyed it, make sure to check out my other reviews, and see you on t
 `;
 
 if (!fs.existsSync(filePath)) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, template);
   console.log(`🚀 Created new game review: ${filePath}`);
 } else {

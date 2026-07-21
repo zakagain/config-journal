@@ -9,7 +9,7 @@ if (!title) {
 }
 
 // Convert "The Truman Show" to "the-truman-show.md"
-const fileName = title.toLowerCase().trim().replace(/\s+/g, '-') + '.md';
+const fileName = title.toLowerCase().trim().replace(/\s+/g, '-').replace(/[\/\\:*?"<>|]/g, '') + '.md';
 const filePath = path.join('docs', 'movies', fileName);
 
 const template = `---
@@ -50,6 +50,7 @@ I hope you enjoyed this review, make sure to check out my others, and see you on
 `;
 
 if (!fs.existsSync(filePath)) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, template);
   console.log(`🚀 Created new review: ${filePath}`);
 } else {
