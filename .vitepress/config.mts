@@ -136,6 +136,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'The Adam Project', link: '/movies/the-adam-project' },
+          { text: 'F1 (2025)', link: '/movies/f1-2025' },
           { text: 'Interstellar', link: '/movies/interstellar' },
           { text: 'IF', link: '/movies/if' },
           { text: 'Michael', link: '/movies/michael' },

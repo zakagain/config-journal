@@ -22,9 +22,13 @@ VitePress docs site at `docs/`. British English, opinionated tone. Owner: zakaga
 
 ## Git
 
-- `git status`, `git log` — ok without asking
-- `git add`, `git commit`, `git push` — require explicit user permission
-- CI auto-deploys to GitHub Pages on push to `main`
+**Never run `git add`, `git commit`, `git push`, `git merge`, `git rebase`, `git tag`, or any other command that writes to the repository history or index unless the user has explicitly asked you to in that same request. Approval for one commit is not approval for the next one — ask again every time.**
+
+- Read-only commands (`git status`, `git log`, `git diff`, `git show`) — ok without asking
+- `git add`, `git commit`, `git push` — **explicit user permission required, every time.** Never infer permission from a previous approval, from the task at hand, or from a standing instruction to "finish" the work. When you are done editing, stop and leave the changes unstaged.
+- Do not amend, force-push, rebase, or change git config unless explicitly asked
+- If a commit fails or a hook rejects it, fix the issue and create a *new* commit — never amend or retry with `--no-verify`
+- CI auto-deploys to GitHub Pages on push to `main`, so an unwanted push publishes the site
 
 ## Content rules
 
