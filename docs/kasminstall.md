@@ -40,7 +40,7 @@ editLink: true
 2.  Move into the `/tmp` directory  
     `cd /tmp`
 3.  Download the Kasm binary  
-    `curl -O https://kasm-static-content.s3.amazonaws.com/kasm_release_1.18.0.tar.gz`
+    `curl -O https://kasm-static-content.s3.amazonaws.com/kasm_release_1.19.0-latest.tar.gz`
 4.  Extract the binary  
     `tar -xf kasm_release_1.18.0.tar.gz`
 5.  Run the automated installer  
