@@ -7,7 +7,6 @@ editLink: true
 # Project Hail Mary | Review
 
 > "Up is down, left is right... I’m wrong about everything and everything’s wrong."
-> 
 > "Both on our distinct individual separate... separate."
 
 
