@@ -14,7 +14,9 @@
     "note": "node new-note.mjs",
     "game": "node new-game.mjs",
     "app": "node new-app.mjs",
-    "book": "node new-book.mjs"
+    "book": "node new-book.mjs",
+    "sync": "node sync.mjs",
+    "sync:list": "node sync-list.mjs"
   },
   "keywords": [],
   "author": "",

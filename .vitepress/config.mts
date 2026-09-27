@@ -79,6 +79,7 @@ export default defineConfig({
         text: 'Apps',
         collapsed: true,
         items: [
+          { text: 'Gridshift', link: '/apps/gridshift' },
           { text: 'Why I switched to Dia', link: '/apps/why-i-switched-to-dia' }
         ]
       },
