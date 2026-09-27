@@ -18,7 +18,7 @@ const prompter = createPrompter()
 
 const ui = {
   select: (options) => numberedList(prompter, options),
-  askText: (label, current) => editText(prompter, label, current),
+  askText: (current) => editText(prompter, current),
   confirm: (question, defaultYes) => confirm(prompter, question, defaultYes)
 }
 
