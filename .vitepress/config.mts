@@ -12,7 +12,7 @@ export default defineConfig({
   ignoreDeadLinks: false,
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://zakagain.github.io/config-journal/'
+    hostname: 'https://config-journal.zakariyakhalid.dpsns.org'
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
