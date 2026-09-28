@@ -8,7 +8,7 @@ export default defineConfig({
     ['meta', { name: 'google-site-verification', content: 'aiEBks0wGe_HDepEPRW1wXGvL0cxce0qWfapTiV4Iqo' }]
   ],
   srcDir: 'docs',
-  base: '/config-journal/',
+  base: '/',
   ignoreDeadLinks: false,
   lastUpdated: true,
   sitemap: {
