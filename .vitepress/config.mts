@@ -15,7 +15,7 @@ export default defineConfig({
   ignoreDeadLinks: false,
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://config-journal.zakariyakhalid.dpsns.org/'
+    hostname: 'https://config-journal.zakariyakhalid.dpdns.org/'
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
